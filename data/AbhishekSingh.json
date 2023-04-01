@@ -1,0 +1,28 @@
+{
+  "name": "Abhishek Singh",
+  "type": "personal",
+  "bio": "Web Developer | **Open Source** | JavaScript",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/isinghabhishek1",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Linkedin",
+      "url": "https://www.linkedin.com/in/isinghabhishek/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "See my Work on Github",
+      "url": "https://github.com/isinghabhishek",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow me on Hashnode",
+      "url": "https://abhiisheksingh.hashnode.dev/",
+      "icon": "FaHashnode"
+    },
+    
+  ]
+}
